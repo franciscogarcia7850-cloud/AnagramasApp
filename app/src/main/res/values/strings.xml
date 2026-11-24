@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Anagramas</string>
+    <string name="player_name">Tu nombre</string>
+    <string name="play">Jugar</string>
+    <string name="player">Jugador: %1$s</string>
+    <string name="score">Puntos: %1$d</string>
+    <string name="word_count">Palabra %1$d de %2$d</string>
+    <string name="instructions">Ordena las letras</string>
+    <string name="enter_your_word">Escribe la palabra</string>
+    <string name="wrong_guess">Palabra incorrecta</string>
+    <string name="submit">Comprobar</string>
+    <string name="skip">Saltar</string>
+    <string name="game_over">Fin del juego</string>
+    <string name="you_scored">%1$s, obtuviste %2$d puntos</string>
+    <string name="play_again">Jugar de nuevo</string>
+    <string name="exit">Salir</string>
+</resources>
